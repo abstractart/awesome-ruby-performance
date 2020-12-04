@@ -71,6 +71,7 @@ Sorted from newest to oldest:
 ## Performance tools
 * Benchmarking
   * [benchmark-ips](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
+  * [derailed_benchmarks](https://github.com/schneems/derailed_benchmarks) - Go faster, off the Rails - Benchmarks for your whole Rails app
 * Profiling
   * Rack
     * [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark a Rails or Ruby app.
